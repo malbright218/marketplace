@@ -1,0 +1,29 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "A CLI-based storefront with the MySQL database backend.",
+  "main": "customer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malbright218/marketplace.git"
+  },
+  "keywords": [
+    "storefront",
+    "CLI-storefront",
+    "store"
+  ],
+  "author": "Mark Albright",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malbright218/marketplace/issues"
+  },
+  "homepage": "https://github.com/malbright218/marketplace/blob/master/README.md",
+  "dependencies": {
+    "inquirer": "6.0.0",
+    "mysql": "2.16.0",
+    "npm": "6.2.0"
+  }
+}
