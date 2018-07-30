@@ -44,4 +44,6 @@ To run the manager interface please follow the steps below:
 	npm install
 	node manager.js
 
-    ### Bamazon Demo
+### Bamazon Demo
+
+To view a demo please use this link for a Google Drive Video [link](https://drive.google.com/file/d/1WJeJJXz3RnY0stIYCWjbwmhuZ2dqCFVL/view).
